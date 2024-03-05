@@ -23,7 +23,7 @@ pip install streamlit Pillow google-generativeai
 
 ## Configuration
 
-1. **Google Generative Language API**: Obtain an API key from the [Google Cloud Console](https://console.cloud.google.com/) and replace `'YOUR_API_KEY'` in the app code with your actual API key. You can also use Google AI studios to get API.
+1. **Google Generative Language API**: Obtain an API key from the [Google Cloud Console](https://console.cloud.google.com/) and replace `'YOUR_API_KEY'` in the app code with your actual API key. You can also use [Google AI studios](https://aistudio.google.com/app/apikey) to get API.
 
 ```python
 genai.configure(api_key='YOUR_API_KEY')
