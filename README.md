@@ -8,6 +8,11 @@ Text Extraction project aims to leverage the power of Google Generative Language
 
 The primary purpose of this project is to streamline the extraction of crucial information from business cards. The application facilitates the quick and accurate retrieval of data. This can be particularly useful in scenarios where manual extraction is time-consuming or impractical.
 
+## Web App :
+
+I have deployed web-app for this project using streamlit platform.
+- [Project link](https://piano-music-generation.streamlit.app/)
+
 ## Requirements
 
 - python
