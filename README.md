@@ -11,7 +11,7 @@ The primary purpose of this project is to streamline the extraction of crucial i
 ## Web App :
 
 I have deployed web-app for this project using streamlit platform.
-- [Project link](https://business-card-reader1.streamlit.app/)
+- [Project web app link](https://ocr-using-app-generative-language-jaymbp88.streamlit.app/)
 
 ## Requirements
 
