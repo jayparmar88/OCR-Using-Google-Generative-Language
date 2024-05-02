@@ -6,8 +6,8 @@ from PIL import Image
 
 import google.generativeai as genai
 
-api_key = os.getenv("GEMINI_API_KEY")
-genai.configure(api_key=api_key)
+#api_key = os.getenv("GEMINI_API_KEY")
+genai.configure(api_key='AIzaSyDCCD2Qwwo67RARzm8V7R7x4dzdTyIdbgA')
 
 def get_gemini_response(input, image,prompt):
     model = genai.GenerativeModel('gemini-pro-vision')
